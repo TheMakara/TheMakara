@@ -13,7 +13,7 @@ alt="Discord Profile"/>
 const Makara = {
     Name: 'Anıl',
     Country: 'Bulgaria',
-    Age: '18',
+    Age: '19',
     FavoriteLanguage: "Graphic Desıgner , Python + c++ + html",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
