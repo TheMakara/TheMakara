@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-    <img src=![image](https://github.com/TheMakara/About/assets/110108211/b3a5a567-0fd3-48d5-83e1-5afd261d119f)
+    <img src=![image](https://github.com/user-attachments/assets/12710f1d-277c-46dd-a718-0722b8a9db60)
 alt="Discord Profile"/>   
   </a>
 </p>
